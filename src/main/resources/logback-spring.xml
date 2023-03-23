@@ -31,6 +31,8 @@
     <!-- Root Logger -->
     <root level="INFO">
         <appender-ref ref="console"/>
+        <!--
         <appender-ref ref="INFO_LOG"/>
+        -->
     </root>
 </configuration>
